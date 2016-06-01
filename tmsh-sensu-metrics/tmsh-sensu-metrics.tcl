@@ -1,3 +1,4 @@
+#
 cli script sensu.tcl {
   # Traffic Manager Shell Script to collect metrics for Sensu
   # by Sean Jain Ellis <sellis@bandarji.com>
@@ -128,3 +129,4 @@ cli script sensu.tcl {
     }
   }
 }
+#
